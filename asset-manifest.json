@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ip-domain-tracker/static/css/main.a617e044.chunk.css",
-    "main.js": "/ip-domain-tracker/static/js/main.224f62ee.chunk.js",
-    "main.js.map": "/ip-domain-tracker/static/js/main.224f62ee.chunk.js.map",
-    "runtime-main.js": "/ip-domain-tracker/static/js/runtime-main.9cd5f3d1.js",
-    "runtime-main.js.map": "/ip-domain-tracker/static/js/runtime-main.9cd5f3d1.js.map",
-    "static/js/2.aea6ad13.chunk.js": "/ip-domain-tracker/static/js/2.aea6ad13.chunk.js",
-    "static/js/2.aea6ad13.chunk.js.map": "/ip-domain-tracker/static/js/2.aea6ad13.chunk.js.map",
-    "static/js/3.977531e5.chunk.js": "/ip-domain-tracker/static/js/3.977531e5.chunk.js",
-    "static/js/3.977531e5.chunk.js.map": "/ip-domain-tracker/static/js/3.977531e5.chunk.js.map",
+    "main.css": "/ip-domain-tracker/static/css/main.dea620d9.chunk.css",
+    "main.js": "/ip-domain-tracker/static/js/main.cb56aaf2.chunk.js",
+    "main.js.map": "/ip-domain-tracker/static/js/main.cb56aaf2.chunk.js.map",
+    "runtime-main.js": "/ip-domain-tracker/static/js/runtime-main.e5f53148.js",
+    "runtime-main.js.map": "/ip-domain-tracker/static/js/runtime-main.e5f53148.js.map",
+    "static/js/2.e4fe2674.chunk.js": "/ip-domain-tracker/static/js/2.e4fe2674.chunk.js",
+    "static/js/2.e4fe2674.chunk.js.map": "/ip-domain-tracker/static/js/2.e4fe2674.chunk.js.map",
+    "static/js/3.b5740584.chunk.js": "/ip-domain-tracker/static/js/3.b5740584.chunk.js",
+    "static/js/3.b5740584.chunk.js.map": "/ip-domain-tracker/static/js/3.b5740584.chunk.js.map",
     "index.html": "/ip-domain-tracker/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/ip-domain-tracker/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.aea6ad13.chunk.js.LICENSE.txt": "/ip-domain-tracker/static/js/2.aea6ad13.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/ip-domain-tracker/static/media/logo.6ce24c58.svg"
+    "static/css/main.dea620d9.chunk.css.map": "/ip-domain-tracker/static/css/main.dea620d9.chunk.css.map",
+    "static/js/2.e4fe2674.chunk.js.LICENSE.txt": "/ip-domain-tracker/static/js/2.e4fe2674.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ip-domain-tracker/static/media/pattern-bg.a60a3c85.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9cd5f3d1.js",
-    "static/js/2.aea6ad13.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.224f62ee.chunk.js"
+    "static/js/runtime-main.e5f53148.js",
+    "static/js/2.e4fe2674.chunk.js",
+    "static/css/main.dea620d9.chunk.css",
+    "static/js/main.cb56aaf2.chunk.js"
   ]
 }
