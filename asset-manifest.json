@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ip-domain-tracker/static/css/main.dea620d9.chunk.css",
-    "main.js": "/ip-domain-tracker/static/js/main.cb56aaf2.chunk.js",
-    "main.js.map": "/ip-domain-tracker/static/js/main.cb56aaf2.chunk.js.map",
+    "main.js": "/ip-domain-tracker/static/js/main.3817725f.chunk.js",
+    "main.js.map": "/ip-domain-tracker/static/js/main.3817725f.chunk.js.map",
     "runtime-main.js": "/ip-domain-tracker/static/js/runtime-main.e5f53148.js",
     "runtime-main.js.map": "/ip-domain-tracker/static/js/runtime-main.e5f53148.js.map",
     "static/js/2.e4fe2674.chunk.js": "/ip-domain-tracker/static/js/2.e4fe2674.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.e5f53148.js",
     "static/js/2.e4fe2674.chunk.js",
     "static/css/main.dea620d9.chunk.css",
-    "static/js/main.cb56aaf2.chunk.js"
+    "static/js/main.3817725f.chunk.js"
   ]
 }
