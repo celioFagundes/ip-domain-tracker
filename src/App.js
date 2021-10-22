@@ -51,9 +51,7 @@ function App() {
     
   }
 }
-  if(loading){
-    return <p>Loading ...</p>
-  }
+  
   return (
     <div>
     <header>
@@ -73,23 +71,24 @@ function App() {
         <div className = 'infos'>
           <div>
             <h2>IP ADDRESS</h2>
-            <span>{data.ip}</span>
+            <span>{loading ? 'Ip' : data.ip}</span>
           </div>
           <div>
             <h2>LOCATION</h2>
-            <span>{`${data.location.city},${data.location.country} ${data.location.postalCode}`}</span>
+            <span>{ loading ? 'Location' : `${data.location.city},${data.location.country} ${data.location.postalCode}`}</span>
           </div>
           <div>
             <h2>TIMEZONE</h2>
-            <span>UTC {data.location.timezone}</span>
+            <span>UTC { loading ? 'UTC -00:00' : data.location.timezone}</span>
           </div>
           <div>
             <h2>ISP</h2>
-            <span>{data.isp}</span>
+            <span>{loading ? 'ISP' : data.isp}</span>
           </div>
         </div>
       </div>
     </header>
+    {!loading &&
     <MapContainer center={[data.location.lat,data.location.lng ]} zoom={13} scrollWheelZoom={true} zoomControl = {false}>
       <TileLayer
         attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
@@ -100,7 +99,7 @@ function App() {
           {data.ip}
         </Popup>
       </Marker>
-    </MapContainer>
+    </MapContainer>}
     </div>
   );
 }
