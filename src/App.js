@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          ip domain
+          ip 
         </p>
         <a
           className="App-link"
